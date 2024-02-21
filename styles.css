@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(26, 109, 109);
+}
+.logo{
+    max-width: 85px;
+    display: block;
+}
+.logo2{
+    align-items: center;
+    display: inline;
+}
+.navigation{
+    text-align:center;
+    background-color: bisque;
+  
+}
+.header{
+     background-color: aqua;
+     
+}
+.navigation a{
+    color: rgb(35, 20, 238);
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+
+}
